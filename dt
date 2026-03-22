@@ -1,0 +1,15 @@
+default-waylandsession.desktop - auto mode
+  link best version is /usr/share/wayland-sessions/plasmawayland.desktop
+  link currently points to /usr/share/wayland-sessions/plasmawayland.desktop
+  link default-waylandsession.desktop is /usr/share/wayland-sessions/default-desktop
+/usr/share/wayland-sessions/gnome-wayland.desktop - priority 30
+/usr/share/wayland-sessions/gnome.desktop - priority 10
+/usr/share/wayland-sessions/plasmawayland.desktop - priority 40
+----------------------------------------------------------------
+default-xsession-desktop - auto mode
+  link best version is /usr/share/xsessions/plasma6.desktop
+  link currently points to /usr/share/xsessions/plasma6.desktop
+  link default-xsession-desktop is /usr/share/xsessions/default-desktop
+/usr/share/xsessions/icewm.desktop - priority 20
+/usr/share/xsessions/plasma6.desktop - priority 40
+----------------------------------------------------------------

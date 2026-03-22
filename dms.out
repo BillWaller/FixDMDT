@@ -1,0 +1,4 @@
+/usr/lib/X11/displaymanagers/sddm 0
+/usr/lib/X11/displaymanagers/console 0
+/usr/lib/X11/displaymanagers/xdm 0
+/usr/lib/X11/displaymanagers/gdm 0

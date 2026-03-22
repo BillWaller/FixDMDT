@@ -1,0 +1,4 @@
+/usr/lib/X11/displaymanagers/sddm 40
+/usr/lib/X11/displaymanagers/console 20
+/usr/lib/X11/displaymanagers/xdm 30
+/usr/lib/X11/displaymanagers/gdm 10
