@@ -198,9 +198,8 @@ xdt.lst x desktop prioritized list
 /usr/share/xsessions/icewm.desktop 20
 ```
 
-### The composite-wm-dt.sh script
+### Run.sh and the composite-wm-dt.sh script
 
-This script is meant to be a consolidation of the previous scripts that
-you use customize according to your particular configuration. It is easier
-to use that 9 separate scripts, but it is less flexible. You can use it to set the priorities for the displaymanagers and desktops in one step, but you will need to
-edit the script to set the priorities for your particular configuration.
+Run.sh is a consolidation of the previous script's output that you can customize according to your particular configuration.
+
+composite-wm-dt.sh is a copy of Run.sh that resulted from running scripts 01 through 08 on my SuSE Tumbleweed system.

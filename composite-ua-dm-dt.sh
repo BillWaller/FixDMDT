@@ -3,16 +3,24 @@
 # reconstruct displaymanager and desktop links and
 # entries using update-alternatives
 #
-# This file was constructed by hand and is not a generated script.
-# It merely consolidates scripts 01 through 08 into a single script for ease of
-# use. It is just an example of how to use update-alternatives to manage
-# displaymanagers and desktop sessions. It is not intended to be used as is, but
-# rather as a template for how to use update-alternatives to manage
-# displaymanagers and desktop sessions. It is specifically taylored for
-# my SuSE Tumbleweed system and probably won't work for your system.
+# This script merely consolidates the output of scripts 01 through 08 into
+# a single script for ease of use.
+# It will serve as an example of how to use update-alternatives to manage
+# displaymanagers and desktop sessions and then reinstalls them properly
+# and with priorities you have assigned.
+# It is not intended to be blindly used as is, but rather as a template
+# that you can edit to meet your objectives and your system's requiremnts.
+# This specific script was generated specifically for my SuSE Tumbleweed
+# system and probably won't work for your system without modifiication.
+# It should save you an hour or so if you aren't familiar with
+# update-alternatives. It saves me an hour or so and I am familiar with
+# update alternatives. It seems there are a lot of little details to keep track
+# of when using update-alternatives. Maybe this will help.
 #
-# Modify this script with the particulars for your system and save it to
-# reconstruct your displaymanager and desktop links and entries.
+# Scripts 01 through 08 should get most of the details right for you, but
+# you should review the output of those scripts and make sure they are correct for
+# for your system and your needs. You may need to modify the output of those
+# scripts.
 #
 # update-alternatives based configuration script
 # for displaymanagers and desktop sessions
